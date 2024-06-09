@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 School Projects:<br>
 <a href="https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f21-GT3CH1">Sprite Editor</a><br>
 <a href="https://github.com/University-of-Utah-CS3505/a9-an-educational-app-GT3CH1">Fish Tutorial</a><br>
+I'm cute
